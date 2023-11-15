@@ -1,0 +1,3 @@
+[submodule "mysubmodule"]
+	path = mysubmodule
+	url = https://github.com/ankit20000/sample-spring-microservices.git
